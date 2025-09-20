@@ -8,7 +8,7 @@
 
 ### Github stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jhon%20Cardenas%20&theme=gruvbox&hide_border=FALSO&border_radius=4.6&locale=es&short_numbers=FALSO)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
 
