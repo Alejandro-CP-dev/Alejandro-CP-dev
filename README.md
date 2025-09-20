@@ -1,7 +1,7 @@
 
 
 ## !Hola😁, Soy Jhon🍄¡
-* Soy Estudiante SENA de [Sogamoso, Colombia](https://youtu.be/iyteoh7jreA?si=7JUJ___RtQQoM0gh)CO
+* Soy Estudiante SENA de [Sogamoso, Colombia](https://youtu.be/iyteoh7jreA?si=7JUJ___RtQQoM0gh) 
 * Techstack: `.js`, `.jv`, `.css`, `.py` 
 * Founder of [Acadeller](https://github.com/Acadeller) 💡
 
