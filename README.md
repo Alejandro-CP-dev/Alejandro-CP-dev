@@ -12,7 +12,4 @@
 
 ![Alejandro-CP-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-CP-dev&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
-![Alejandro-CP-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alejandro-CP-dev&theme=dracula&hide_border=true)
-
-
 
