@@ -7,7 +7,7 @@
 
 ### Github stats
 
-![Alejandro-CP-dev's Stats](https://github-readme-stats.vercel.app/api?username=Alejandro-CP-dev&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![Alejandro-CP-dev's Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ![Alejandro-CP-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-CP-dev&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
