@@ -7,8 +7,13 @@
 
 ### Github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejandro-CP-dev&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-![Alejandro-CP-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-CP-dev&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alejandro-CP-dev&show_icons=true&theme=radical&hide_border=true)
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-CP-dev&layout=compact&theme=dracula&hide_border=true)
+
 
 
