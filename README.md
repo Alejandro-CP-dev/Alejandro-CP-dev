@@ -5,13 +5,10 @@
 * Soy Estudiante SENA de [Sogamoso, Colombia](https://youtu.be/iyteoh7jreA?si=7JUJ___RtQQoM0gh) 
 * Techstack: `.js`, `.jv`, `.css`, `.py` 
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alejandro-CP-dev&show_icons=true&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alejandro-CP-dev&show_icons=true&theme=radical)
 
----
+![Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alejandro-CP-dev&layout=compact&theme=dracula)
 
-## 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-CP-dev&layout=compact&theme=dracula&hide_border=true)
 
 
 
