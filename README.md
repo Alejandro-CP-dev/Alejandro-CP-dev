@@ -6,10 +6,20 @@
 * Techstack: `.js`, `.jv`, `.css`, `.py` 
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alejandro-CP-dev&show_icons=true&theme=radical)
 
-## 💻 Top Languages
-![Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alejandro-CP-dev&layout=compact&theme=dracula)
+![Followers](https://img.shields.io/github/followers/Alejandro-CP-dev?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Alejandro-CP-dev?style=for-the-badge)
+![Repos](https://img.shields.io/github/repo-size/Alejandro-CP-dev/Alejandro-CP-dev?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Alejandro-CP-dev/Alejandro-CP-dev?style=for-the-badge)
+
+
+## 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+
 
 
 
