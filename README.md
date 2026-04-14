@@ -19,6 +19,7 @@
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![C#](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=csharp)
 
 
 
