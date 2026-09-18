@@ -72,7 +72,7 @@ Servicio Nacional de Aprendizaje — SENA
 
 ## 📫 Contacto
 
-* 📧 Email: [alejandrotareas029@gmail.com](mailto:alejandrotareas029@gmail.com)
+* 📧 Email: [jalejandrocp29@gmail.com](mailto:jalejandrocp29@gmail.com)
 * 💼 LinkedIn: [Jhon Alejandro Cardenas Pinto](https://www.linkedin.com/in/jhon-alejandro-undefined-b9a957385/)
 * 📍 Sogamoso, Boyacá, Colombia
 
