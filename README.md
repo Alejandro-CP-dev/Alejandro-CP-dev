@@ -1,5 +1,5 @@
 
-[![Jhon Cardenas](https://github.com/Alejandro-CP-dev/Alejandro-CP-dev/blob/main/img/banner.png)](https://Alejandro-CP-dev.dev/)
+[![Jhon Cardenas](https://github.com/Alejandro-CP-dev/Alejandro-CP-dev/blob/main/img/banner.jpg)](https://Alejandro-CP-dev.dev/)
 
 # Jhon Alejandro Cardenas Pinto
 
